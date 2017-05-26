@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Teams
 child_type: default
 ---
 
