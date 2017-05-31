@@ -2,4 +2,4 @@
 title: test
 ---
 
-{{ facebook_posts() }}
+test
